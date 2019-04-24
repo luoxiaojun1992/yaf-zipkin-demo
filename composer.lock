@@ -200,12 +200,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/luoxiaojun1992/yaf-zipkin.git",
-                "reference": "d8da803634a2081b29d9cba257934306d424376c"
+                "reference": "66bbbd3f206255d8f6544f95f8cbbb64521bae5a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/luoxiaojun1992/yaf-zipkin/zipball/d8da803634a2081b29d9cba257934306d424376c",
-                "reference": "d8da803634a2081b29d9cba257934306d424376c",
+                "url": "https://api.github.com/repos/luoxiaojun1992/yaf-zipkin/zipball/66bbbd3f206255d8f6544f95f8cbbb64521bae5a",
+                "reference": "66bbbd3f206255d8f6544f95f8cbbb64521bae5a",
                 "shasum": ""
             },
             "require": {
@@ -238,7 +238,7 @@
                 "yaf",
                 "zipkin"
             ],
-            "time": "2019-04-24T08:51:54+00:00"
+            "time": "2019-04-24T12:59:04+00:00"
         },
         {
             "name": "openzipkin/zipkin",
