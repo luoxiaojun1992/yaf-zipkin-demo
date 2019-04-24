@@ -1,0 +1,15 @@
+{
+    "name": "luoxiaojun/yaf-zipkin-demo",
+    "description": "Yaf Zipkin Demo",
+    "type": "project",
+    "require": {
+        "luoxiaojun/yaf-zipkin": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "luoxiaojun",
+            "email": "luoxiaojun1992@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
