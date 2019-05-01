@@ -11,5 +11,8 @@
             "email": "luoxiaojun1992@sina.cn"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "config": {
+        "optimize-autoloader": true
+    }
 }
